@@ -1,0 +1,10 @@
+Procedure:
+	(i) Create Ubuntu bootable disk
+	(ii) Boot USB drive/disk (bootable)
+	(iii) Try Ubuntu 
+	(iv) Connect to the network
+Steps(cmds):
+	(i) sudo apt-get install lilo (make sure internet is connected)
+	(ii) sudo lilo -M /dev/sda mbr (press Enter)
+        (iii) sudo shutdown -h now (remove installation media and press Enter)
+	
