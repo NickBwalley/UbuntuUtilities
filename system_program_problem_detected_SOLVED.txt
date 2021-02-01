@@ -1,0 +1,3 @@
+$ ls -l /var/crash/ (list the program of the system crashed)
+$ sudo rm /var/crash/* (remove the program in the crash file)
+$ gksu gedit /etc/default/apport (OPTIONAL) (disable notification for any program crash in the future)
