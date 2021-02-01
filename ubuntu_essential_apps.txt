@@ -1,1 +1,14 @@
-ulauncher 
+10 Best Linux Applications that you MUST HAVE whether you run Ubuntu, Mint, Pop!_OS or any other Linux Distro. This Software will add functionality and better overrall user experience.
+
+TOP 10 LINUX APPS:
+1. Ulauncher - Applications Launcher
+2. Stacer - Optimizer and Monitor
+3. Timeshift - System Snapshot
+4. KDenlive - Best non-linear editing
+5. SimpleNote - Clean note taking
+6. VLC - Play anything!.
+7. Gnome Tweak  - change anything
+8. Etcher - USB Image Writer
+9. GIMP - Professional Image Editing
+10. Notepadqq - Source code Editor
+
