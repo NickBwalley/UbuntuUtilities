@@ -1,2 +1,4 @@
+CANNOT FIND SYSTEM SETTING FILE SOLVED!
+-------------------------------------
 $ sudo apt update
 $ sudo apt install gnome-control-center
